@@ -1,0 +1,15 @@
+0,AttackOf,attackof
+1,CanAlsoBe,canalsobe
+2,CanFollow,canfollow
+3,CanPrecede,canprecede
+4,ChildOf,childof
+5,InstanceOf,instanceof
+6,PeerOf,peerof
+7,RelatedATT&CKTechnique,relatedatt cktechnique
+8,RelatedMitigation,relatedmitigation
+9,RelatedPattern,relatedpattern
+10,Requires,requires
+11,StartsWith,startswith
+12,SubTechniqueOf,subtechniqueof
+13,SubTechniques,subtechniques
+14,TargetOf,targetof

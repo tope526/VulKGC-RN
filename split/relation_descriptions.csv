@@ -1,0 +1,15 @@
+0,AttackOf,AttackOf
+1,CanAlsoBe,CanAlsoBe
+2,CanFollow,CanFollow
+3,CanPrecede,CanPrecede
+4,ChildOf,ChildOf
+5,InstanceOf,InstanceOf
+6,PeerOf,PeerOf
+7,RelatedATT&CKTechnique,RelatedATT&CKTechnique
+8,RelatedMitigation,RelatedMitigation
+9,RelatedPattern,RelatedPattern
+10,Requires,Requires
+11,StartsWith,StartsWith
+12,SubTechniqueOf,SubTechniqueOf
+13,SubTechniques,SubTechniques
+14,TargetOf,TargetOf

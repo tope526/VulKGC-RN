@@ -1,0 +1,15 @@
+AttackOf,0
+CanAlsoBe,1
+CanFollow,2
+CanPrecede,3
+ChildOf,4
+InstanceOf,5
+PeerOf,6
+RelatedATT&CKTechnique,7
+RelatedMitigation,8
+RelatedPattern,9
+Requires,10
+StartsWith,11
+SubTechniqueOf,12
+SubTechniques,13
+TargetOf,14
